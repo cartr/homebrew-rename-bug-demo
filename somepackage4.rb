@@ -1,4 +1,4 @@
-class Somepackage < Formula
+class Somepackage4 < Formula
   desc "The GNU Hello project, just for testing purposes."
   homepage "https://www.gnu.org/software/hello/"
   url "http://ftpmirror.gnu.org/hello/hello-2.10.tar.gz"
